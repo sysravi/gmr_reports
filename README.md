@@ -1,4 +1,4 @@
-# gmr_reports
+# Google Mobility Index Reports
 Taiyō task submission for Google Mobility Report scraper in Python
 Task objective is to scrape details from Google Mobility Index URL and generate a CSV file
 containing details of the various regions in Google Mobility Index (last checked 9249841 lines)
